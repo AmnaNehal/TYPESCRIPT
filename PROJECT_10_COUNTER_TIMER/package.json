@@ -1,0 +1,21 @@
+{
+  "name": "amna16_count_down_timer",
+  "version": "1.0.0",
+  "description": "A simple countdown timer using Typescript , node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amna Nehal",
+  "license": "MIT",
+  "dependencies": {
+    "@types/date-fns": "^2.5.3",
+    "@types/inquirer": "^9.0.7",
+    "date-fns": "^3.6.0",
+    "inquirer": "^10.1.2"
+  }
+}
