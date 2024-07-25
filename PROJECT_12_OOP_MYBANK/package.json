@@ -1,0 +1,23 @@
+{
+  "name": "amna16_bankaccount_app",
+  "version": "1.0.0",
+  "description": "A simple bank app using Typescript , node.js and inquirer",
+  "main": "index.js",
+  "type": "commonjs",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amna Nehal",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^10.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.12",
+    "typescript": "^5.5.4"
+  }
+}
