@@ -1,0 +1,20 @@
+{
+  "name": "amna16_word_counter",
+  "version": "1.0.0",
+  "description": "A simple word counter using Typescript, Node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amna Nehal",
+  "license": "MIT",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^10.1.2"
+  }
+}
